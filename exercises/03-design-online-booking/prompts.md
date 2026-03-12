@@ -13,7 +13,7 @@
 以下の仕様書をもとに、初学者が設計しやすいように、主要機能を3〜4個に絞って整理してください。
 
 【仕様書】
-（`inputs.md` の内容を貼り付け）
+exercises\02-specification-online-booking\deliverables-template.md
 
 次の形式で出力してください。
 
@@ -35,7 +35,7 @@
 以下の仕様書をもとに、オンライン予約システムの画面設計のたたき台を作ってください。
 
 【仕様書】
-（`inputs.md` の内容を貼り付け）
+exercises\02-specification-online-booking\deliverables-template.md
 
 出力形式：
 # 画面一覧
